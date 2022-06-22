@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lsn2310
 - 👀 I’m interested in learning Python at a more advanced level and getting valuable work experience
-- 🌱 I’m currently learning general Python; I've been coding every day in it for almost three years on websites like Codewars
+- 🌱 I’m currently learning general Python; I've been coding every day for almost three years on websites like Codewars
 - 💞️ I’m looking to collaborate!
 
 <!---
